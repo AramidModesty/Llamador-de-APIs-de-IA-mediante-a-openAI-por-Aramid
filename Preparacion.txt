@@ -1,0 +1,17 @@
+// Bienvenido a Aramid dev guide para uso de IA con Python
+// Para usar, primero instala los requerimientos en tu entorno virtual con el archivo requirements.txt
+
+// Si windows:
+python -m venv .venv
+venv/bin/activate
+pip install -r requirements.txt
+
+// Si Linux:
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+// Una vez hecho, puedes empezar a analizar el codigo.
+// Si le pones mas librerias, puedes actualizar requirements.txt con el siguiente comando para tu propio repo
+pip freeze -> requirements.txt
+
