@@ -13,7 +13,10 @@ Es para estudiar a la inteligencia artificial y esta siendo hecho por un estudia
 
 
 
-    Nota importante: Cualquier intento de commit dejando la clave api adentro del sistema resultara en error y bloqueo de cualquier commit posterior, por lo cual se recomienda dejar a tu clave solo en .env o en algun archivo al que le pongas en .gitignore
+    Nota importante: Cualquier intento de commit dejando la clave api
+    adentro del sistema resultara en error y bloqueo de cualquier commit posterior,
+    por lo cual se recomienda dejar a tu clave solo en .env o en
+    algun archivo al que le pongas en .gitignore
 
 ## Este repositorio esta basado en la documentación de OpenAI.
 
